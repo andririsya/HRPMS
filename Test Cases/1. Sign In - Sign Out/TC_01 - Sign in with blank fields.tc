@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01 - Sign in with blank fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c15809f4-3954-4231-a995-3474d9598240</testCaseGuid>
+</TestCaseEntity>

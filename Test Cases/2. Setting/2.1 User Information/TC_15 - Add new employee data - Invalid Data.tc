@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 - Add new employee data - Invalid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>847c3fc8-a7ac-4aef-9e25-8202f36b9965</testCaseGuid>
+</TestCaseEntity>

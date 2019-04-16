@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20 - Edit an employee data - Invalid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73114c77-4eb3-48a2-bdfe-371436568f99</testCaseGuid>
+</TestCaseEntity>

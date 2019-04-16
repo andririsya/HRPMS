@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05 - Sign out from the apps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab00d666-ffe5-4242-92f7-04dad85ae847</testCaseGuid>
+</TestCaseEntity>

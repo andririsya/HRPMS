@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 - Edit an employee data - Mandatory Incomplete Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7ca70c0-9bc4-49ec-b4f7-1d5a3f346467</testCaseGuid>
+</TestCaseEntity>

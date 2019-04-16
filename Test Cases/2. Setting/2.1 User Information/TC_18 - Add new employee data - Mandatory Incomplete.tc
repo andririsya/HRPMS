@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18 - Add new employee data - Mandatory Incomplete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7e8637a-2220-4c8e-b25d-ba37611400d7</testCaseGuid>
+</TestCaseEntity>

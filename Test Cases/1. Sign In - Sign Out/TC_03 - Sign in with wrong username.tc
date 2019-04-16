@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03 - Sign in with wrong username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00d1fb87-4810-446f-af7d-87eaea092621</testCaseGuid>
+</TestCaseEntity>
